@@ -27,6 +27,7 @@ public class StatisticsServiceImpl implements StatisticsService {
                 "Ошибка индексации: главная страница сайта не доступна",
                 "Ошибка индексации: сайт не доступен",
                 ""
+                //TODO Зафигачим
         };
 
         TotalStatistics total = new TotalStatistics();
